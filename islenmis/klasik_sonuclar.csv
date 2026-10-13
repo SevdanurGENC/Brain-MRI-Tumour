@@ -1,0 +1,4 @@
+Model,AUC,Doğruluk,Duyarlılık,Özgüllük,PPD
+Lojistik regresyon,0.942,0.843,0.839,0.85,0.897
+k-En yakın komşu,0.769,0.706,0.903,0.4,0.7
+Rastgele orman,0.85,0.765,0.935,0.5,0.744

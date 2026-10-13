@@ -1,0 +1,2 @@
+Model,AUC,Doğruluk,Duyarlılık,Özgüllük,PPD
+CNN (derin öğrenme),0.8080645161290323,0.6078431372549019,1.0,0.0,0.6078431372549019

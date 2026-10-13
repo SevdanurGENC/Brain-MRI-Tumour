@@ -1,6 +1,7 @@
 <p align="center"><img src="mobil/ikon.png" width="96" alt="Beyin MR YZ simgesi"></p>
 <h1 align="center">Beyin MR YZ</h1>
 <p align="center"><i>Beyin MR kesitinde tümör tespiti</i></p>
+<p align="center"><b>Türkçe</b> · <a href="README.en.md">English</a></p>
 <p align="center">
   <img alt="Android 5.0+" src="https://img.shields.io/badge/Android-5.0%2B-3DDC84?logo=android&logoColor=white">
   <img alt="Çevrimdışı" src="https://img.shields.io/badge/internet-gerekmez-0B5CAD">
